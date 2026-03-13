@@ -11,5 +11,7 @@ This repository contains the Python code used for the preprocessing and clusteri
 ## Files
 - K-Means_All.py – implementation of the K-Means clustering
 - GMM_All.py – implementation of the Gaussian Mixture Model
-- preprocessing.py – preprocessing and feature extraction
+- VorverarbeitungSubject1.py – preprocessing and feature extraction of subject 1
+- VorverarbeitungAllSubjects.py – preprocessing and feature extraction of subjects 1-20
+- MittelwertVerlaufAllSubjects.py - preprocessing of subjects 1-20
 - model_comparison.py – comparison of clustering results
